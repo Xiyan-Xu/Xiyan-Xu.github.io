@@ -20,7 +20,9 @@
   "experience": [
     {
       "role": "Research Assistant",
-      "institution": "Yuxiong Lab, University of Illinois Urbana-Champaign",
+      "lab": "Yuxiong Lab",
+      "lab_url": "https://yxw.web.illinois.edu/",
+      "school": ", University of Illinois Urbana-Champaign",
       "startDate": "2023",
       "endDate": "Now"
     },
@@ -30,18 +32,21 @@
       "startDate": "2023",
       "endDate": "Now",
       "courses": [
-        "CS173: Discrete Structures, 24spring"
+        {"name": "CS173: Discrete Structures, 24spring", "url": "https://courses.grainger.illinois.edu/cs173/sp2024/"}
       ]
     },
     {
       "role": "Vice Chairman",
       "institution": "Student Association of Science and Technology",
       "startDate": "2021",
-      "endDate": "2022"
+      "endDate": "2022",
+      "institution_url": "https://eecs.pku.edu.cn/info/1018/1553.htm"
     },
     {
       "role": "Research Assistant",
-      "institution": "VCL Lab, Peking University",
+      "lab": "VCL Lab",
+      "lab_url": "https://vcl.pku.edu.cn/",
+      "school": ", Peking University",
       "startDate": "2021",
       "endDate": "2023"
     },
@@ -50,7 +55,7 @@
       "institution": "Peking University",
       "startDate": "2021",
       "courses": [
-        "Data Structure and Algorithm (A), 21fall"
+        {"name": "Data Structure and Algorithm (A), 21fall", "url": "https://www.icourse163.org/course/PKU-1002534001"}
       ]
     }
   ],

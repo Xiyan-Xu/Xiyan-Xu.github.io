@@ -39,12 +39,26 @@
       </div>
       <div class="col-xs-10 cl-sm-10 col-md-10 mt-2 mt-md-0">
         <h6 class="title font-weight-bold ml-1 ml-md-4">{{content.role}}</h6>
-        <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem;">{{content.institution}}</h6>
+        <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem;">
+          {% if content.institution_url %}
+          <a href="{{ content.institution_url }}">{{ content.institution }}</a>
+          {% else %}
+          {{content.institution}}
+          {% endif %}
+        </h6>
+        <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem;">
+          {% if content.lab_url %}
+          <a href="{{ content.lab_url }}">{{ content.lab }}</a>{{content.school}}
+          {% else %}
+          <a>{{ content.lab }}</a>{{content.school}}
+          {% endif %}
+        </h6>
         <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic;">{{content.area}}</h6>
         <ul class="items">
           {% for item in content.courses %}
           <li>
-            <span class="item">{{ item }}</span>
+            <!-- <span class="item">{{ item.name }}</span> -->
+            <a href="{{ item.url }}" class="item">{{ item.name }}</a>
           </li>
           {% endfor %}
         </ul>
