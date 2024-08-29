@@ -19,6 +19,13 @@
   ],
   "experience": [
     {
+      "role": "Machine Learning Engineer Intern",
+      "lab": "WeRide.ai",
+      "school": ", Simulation Team",
+      "lab_url": "https://www.weride.ai/",
+      "startDate": "2024"
+    },
+    {
       "role": "Research Assistant",
       "lab": "Yuxiong Lab",
       "lab_url": "https://yxw.web.illinois.edu/",
@@ -32,7 +39,8 @@
       "startDate": "2023",
       "endDate": "Now",
       "courses": [
-        {"name": "CS173: Discrete Structures, 24spring", "url": "https://courses.grainger.illinois.edu/cs173/sp2024/"}
+        {"name": "CS173: Discrete Structures, 24spring", "url": "https://courses.grainger.illinois.edu/cs173/sp2024/"},
+        {"name": "CS446: Machine Learning, 24fall", "url": "https://courses.grainger.illinois.edu/cs446/fa2024/"}
       ]
     },
     {
