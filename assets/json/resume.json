@@ -39,7 +39,7 @@
       "startDate": "2023",
       "endDate": "Now",
       "courses": [
-        {"name": "CS173: Discrete Structures, 24spring", "url": "https://courses.grainger.illinois.edu/cs173/sp2024/"},
+        {"name": "CS173: Discrete Structures, 24spring, 25spring", "url": "https://courses.grainger.illinois.edu/cs173/sp2024/"},
         {"name": "CS446: Machine Learning, 24fall", "url": "https://courses.grainger.illinois.edu/cs446/fa2024/"}
       ]
     },
