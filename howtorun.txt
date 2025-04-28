@@ -1,0 +1,3 @@
+docker run --rm -it --volume="$PWD:/srv/jekyll" -p 4000:4000 amirpourmand/al-folio bash
+bundle install
+bundle exec jekyll serve --host 0.0.0.0
