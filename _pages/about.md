@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: MSCS @ UIUC
+subtitle: SDE @ WeRide.ai
 
 profile:
   align: right
