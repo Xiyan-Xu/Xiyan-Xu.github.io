@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-04-28 07:59:00-0400
+date: 2025-06-16 07:59:00-0400
 inline: true
 related_posts: false
 ---
-Our work, *MoReact: Generating Reactive Motion from Textual Descriptions*, has been accepted at CVPR 4DV Workshop 2025.
+I joined [WeRide.ai](https://www.weride.ai/) as a General Software Engineer and collaborated with the perception team.
