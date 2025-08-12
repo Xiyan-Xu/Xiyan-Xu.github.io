@@ -8,7 +8,7 @@
       "institution": "University of Illinois Urbana-Champaign",
       "studyType": "M.S. in Computer Sciences",
       "startDate": "2023",
-      "endDate": "Now"
+      "endDate": "2025"
     },
     {
       "institution": "Peking University",
@@ -19,7 +19,14 @@
   ],
   "experience": [
     {
-      "role": "Machine Learning Engineer Intern",
+      "role": "General Software Engineer",
+      "lab": "WeRide.ai",
+      "school": ", Perception Team",
+      "lab_url": "https://www.weride.ai/",
+      "startDate": "2025"
+    },
+    {
+      "role": "Software Engineer Intern",
       "lab": "WeRide.ai",
       "school": ", Simulation Team",
       "lab_url": "https://www.weride.ai/",
@@ -31,13 +38,13 @@
       "lab_url": "https://yxw.web.illinois.edu/",
       "school": ", University of Illinois Urbana-Champaign",
       "startDate": "2023",
-      "endDate": "Now"
+      "endDate": "2025"
     },
     {
       "role": "Teaching Assistant",
       "institution": "University of Illinois Urbana-Champaign",
       "startDate": "2023",
-      "endDate": "Now",
+      "endDate": "2025",
       "courses": [
         {"name": "CS173: Discrete Structures, 24spring, 25spring", "url": "https://courses.grainger.illinois.edu/cs173/sp2024/"},
         {"name": "CS446: Machine Learning, 24fall", "url": "https://courses.grainger.illinois.edu/cs446/fa2024/"}
